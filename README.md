@@ -16,6 +16,7 @@
 ## 🧰 Compétences clés
 
 - SIG : QGIS, ArcGIS Pro, JOSM, Mapillary, OSM
+- Web : HTML, CSS, GitHub
 - Programmation Python 🐍 : Script & Plugins (PyQGIS, ArcPy), Jupyter Notebook
 - Hydraulique urbaine : EPANET, EPA SWMM, HEC-RAS
 - DAO & VRD : AutoCAD, Civil 3D, Autodesk SSA
