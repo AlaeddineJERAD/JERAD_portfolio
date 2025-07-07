@@ -8,8 +8,8 @@
 🔗 [LinkedIn](https://linkedin.com/in/alaeddine-jerad-909b65197) • [GitHub](https://github.com/AlaeddineJERAD)
 
 🗓️ Disponibilité : immédiate  
-🚗 Mobilité : Territoire Français  
-🪪 Permis B : Oui
+🥾 Mobilité : Territoire Français  
+🚗 Permis B : Oui
 
 ---
 
