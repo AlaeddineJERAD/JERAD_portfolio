@@ -16,11 +16,11 @@
 ## 🧰 Compétences clés
 
 - SIG : QGIS, ArcGIS Pro, JOSM, Mapillary, OSM
-- Hydraulique : EPANET, EPA SWMM, HEC-RAS
+- Programmation Python 🐍 : Script & Plugins (PyQGIS, ArcPy), Jupyter Notebook
+- Hydraulique urbaine : EPANET, EPA SWMM, HEC-RAS
 - DAO & VRD : AutoCAD, Civil 3D, Autodesk SSA
-- Modélisation environnementale : AERMOD VIEW
+- Modélisation environnementale : AERMOD VIEW (qualité de l'air)
 - Bureautique : Suite Office, Excel, Word
-- Programmation : Jupyter Notebook (Python)
 - Communication & rédaction technique
 
 ---
@@ -44,25 +44,25 @@
 ---
 
 ### 🔹 Restauration des cours d’eau – Vallée de l’Yèvre (SIVY)
-🔧 Outils : QGIS, ArcGIS Pro  
+🔧 Outils : QGIS, ArcGIS Pro, Excel  
 🎯 Analyse multicritère pour identifier les zones prioritaires de restauration dans le sous-bassin du Langis.  
 
 ---
 
 ### 🔹 Recyclage des eaux grises – Dracoss
-🔧 Outils : AutoCAD  
+🔧 Outils : AutoCAD, Excel  
 🎯 Étude du traitement des eaux grises et dimensionnement d’un décanteur.
 
 ---
 
 ### 🔹 Projets AEP en Afrique – SONEDE International
-🔧 Outils : QGIS, EPANET, AutoCAD  
+🔧 Outils : QGIS, EPANET, AutoCAD, Excel, Adobe A  
 🎯 Études APS, APD, DAO et supervision de projets d’eau potable en Afrique (Guinée, Mali, Mauritanie...).
 
 ---
 
 ### 🔹 Hydraulique urbaine & VRD – SOTUEC International
-🔧 Outils : EPANET, EPASWMM, HEC-RAS, AutoCAD  
+🔧 Outils : EPANET, EPASWMM, HEC-RAS, AutoCAD, Adobe Acrobat
 🎯 Études et modélisations hydrauliques en Afrique, Arabie Saoudite, France et Tunisie.
 
 ---
