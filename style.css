@@ -30,3 +30,41 @@ ul {
     list-style-type: square;
     padding-left: 20px;
 }
+.hero {
+  background-image: url('Background.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.4); /* fondu noir transparent */
+  z-index: 1;
+}
+
+.hero-text {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-text h1 {
+  font-size: 3em;
+  margin: 0;
+  font-weight: bold;
+}
+
+.hero-text h2 {
+  font-size: 2em;
+  margin-top: 0.5em;
+  font-weight: 300;
+}
