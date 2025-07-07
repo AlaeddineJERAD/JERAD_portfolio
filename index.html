@@ -10,8 +10,8 @@
 <body>
     <section class="hero">
         <div class="hero-text">
-            <h1>Bonjour, je m'appelle Alaeddine</h1>
-            <h2>Je suis Géomaticien et Hydraulicien</h2>
+            <h1 id="typing"></h1>
+            <span class="cursor">|</span>
         </div>
     </section>
     <header>
@@ -56,5 +56,20 @@
     <footer>
         <p>© 2025 Alaeddine JERAD</p>
     </footer>
+    <script>
+        const text = "Bonjour, je m'appelle Alaeddine. Je suis Géomaticien et Hydraulicien.";
+        const typingElement = document.getElementById("typing");
+        let index = 0;
+
+        function typeWriter() {
+            if (index < text.length) {
+              typingElement.innerHTML += text.charAt(index);
+              index++;
+              setTimeout(typeWriter, 50);
+            }
+        }
+        
+        document.addEventListener("DOMContentLoaded", typeWriter);
+    </script>
 </body>
 </html>
