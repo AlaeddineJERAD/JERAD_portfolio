@@ -103,14 +103,17 @@ details[open] {
   flex-wrap: wrap;
   gap: 10px;
   margin-top: 10px;
+  justify-content: center; /* facultatif, pour centrer les images */
 }
 
 .gallery img {
-  width: 100%;
-  max-width: 300px;
+  width: 300px;             /* largeur fixe */
+  height: 200px;            /* hauteur fixe */
+  object-fit: cover;        /* remplit le cadre sans déformation */
   border-radius: 8px;
   box-shadow: 0 0 8px rgba(0,0,0,0.2);
   transition: transform 0.3s ease;
+  display: block;
 }
 
 .gallery img:hover {
