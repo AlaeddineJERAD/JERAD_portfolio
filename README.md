@@ -2,6 +2,7 @@
 
 **Ingénieur Géomaticien**  
 **Ingénieur en Génie Hydraulique et Environnement**
+**Ingénieur Chef de Projets**  
 
 📧 alaeddinejrad29@gmail.com  
 📞 +33 7 45 50 02 01  
