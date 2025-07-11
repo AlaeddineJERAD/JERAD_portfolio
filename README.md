@@ -5,7 +5,7 @@
 
 📧 alaeddinejrad29@gmail.com  
 📞 +33 7 45 50 02 01  
-🔗 [LinkedIn](https://linkedin.com/in/alaeddine-jerad-909b65197) • [GitHub](https://github.com/AlaeddineJERAD)
+🔗 [LinkedIn](https://linkedin.com/in/alaeddine-jerad-909b65197) • [GitHub](https://github.com/AlaeddineJERAD) • [Portfolio](https://alaeddinejerad.github.io/JERAD_portfolio/)
 
 🗓️ Disponibilité : immédiate  
 🥾 Mobilité : Territoire Français  
@@ -21,6 +21,7 @@
 - Hydraulique urbaine : EPANET, EPA SWMM, HEC-RAS
 - DAO & VRD : AutoCAD, Civil 3D, Autodesk SSA
 - Modélisation environnementale : AERMOD VIEW (qualité de l'air)
+- Gestion de Projets : MS Project, Excel
 - Bureautique : Suite Office, Excel, Word
 - Communication & rédaction technique
 
